@@ -70,7 +70,7 @@
         </ul>
       </nav><!-- .nav-menu -->
 
-      <a href="login.php" class="get-started-btn scrollto">Iniciar seccion</a>
+      <a href="login.php" class="get-started-btn scrollto">Iniciar sección</a>
 
     </div>
   </header><!-- End Header -->
@@ -86,7 +86,8 @@
   <div class="modal-dialog" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">Registro</h5>
+    <!--   <h4 class="modal-title" id="exampleModalLabel">Registro</h4> -->
+       <h4>Registro</h4>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>

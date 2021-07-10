@@ -169,7 +169,7 @@ a {
 
 a:hover {
   color: #4a0000;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a:not([href]):not([tabindex]) {
@@ -5219,7 +5219,7 @@ input[type="button"].btn-block {
 
 .page-link:hover {
   z-index: 2;
-  color: #004a43;
+  color: #4a0000;
   text-decoration: none;
   background-color: #e9ecef;
   border-color: #dee2e6;

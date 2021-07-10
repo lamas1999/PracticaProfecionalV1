@@ -21,38 +21,30 @@
         <section id="team">
             <!--Post  -->
             <div class="col-md-12 mb-4">
-                <div class="post d-flex align-items-center justify-content-center" data-aos="zoom-in" data-aos-delay="100">
-                    <div class="pic col-md-2"><img src="<?php echo RUTA;?>/imagenes/logos/team/team-1.jpg" class="img-fluid"
-                            alt=""></div>&nbsp;&nbsp;&nbsp;&nbsp;
+                <div class="post d-flex align-items-center justify-content-center" data-aos="zoom-in"
+                    data-aos-delay="100">
+                    <div class="pic col-md-2"><img src="<?php echo RUTA;?>/imagenes/logos/team/team-1.jpg"
+                            class="img-fluid" alt=""></div>&nbsp;&nbsp;&nbsp;&nbsp;
 
                     <div class="member-info">
-                        <h4><a href="#">Analista de Desarrollo de Sistemas - Plazo Fijo</a></h4>
+                        <h4><a href="#" class="text-danger">Analista de Desarrollo de Sistemas - Plazo Fijo</a></h4>
                         <span>Sociedad Anonima</span>
                         <h6> <i class="far fa-calendar-alt"></i> fecha</h6>
                         <h6> <i class="fas fa-map-marker-alt"></i> Ciudad,pais</h6>
                         <p class="line-head"> Lorem ipsum, dolor sit amet consectetur adipisicing elit.
                             Culpa, numquam! Accusamus magni nostrum asperiores? Natus voluptas
                             corrupti optio totam, distinctio facilis! Temporibus amet eos incidunt optio.
-                            Amet facere architecto consequatur  Lorem ipsum, dolor sit amet consectetur 
+                            Amet facere architecto consequatur Lorem ipsum, dolor sit amet consectetur
                             adipisicing elit. Reprehenderit soluta obcaecati sapiente culpa dolorum possimus
-                             non alias. Voluptatum in velit at esse laboriosam adipisci voluptatibus dolore. Dolores
-                              molestiae dolorum placeat.</p></br>
-                              <p><a class="btn btn-danger icon-btn" href="">Ver Empleo <i class="fas fa-arrow-circle-right"></i></a></p>
-                    </div>             
+                            non alias. Voluptatum in velit at esse laboriosam adipisci voluptatibus dolore. Dolores
+                            molestiae dolorum placeat.</p></br>
+                        <p><a class="btn btn-danger icon-btn" href="">Ver Empleo <i
+                                    class="fas fa-share"></i></a></p>
+                    </div>
                 </div>
             </div>
             <!-- END POST -->
-            <div class="">
-                <ul class="pagination align-items-center justify-content-center">
-                  <li class="page-item disabled"><a class="page-link" href="#">«</a></li>
-                  <li class="page-item active"><a class="page-link" href="#">1</a></li>
-                  <li class="page-item"><a class="page-link" href="#">2</a></li>
-                  <li class="page-item"><a class="page-link" href="#">3</a></li>
-                  <li class="page-item"><a class="page-link" href="#">4</a></li>
-                  <li class="page-item"><a class="page-link" href="#">5</a></li>
-                  <li class="page-item"><a class="page-link" href="#">»</a></li>
-                </ul>
-              </div>
+            <?php require_once 'paginacion.php';?>
         </section>
     </div>
 
