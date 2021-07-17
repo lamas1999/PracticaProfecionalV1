@@ -8,7 +8,7 @@
         </div>
       </div>
       <ul class="app-menu">
-        <li><a class="app-menu__item active" href="index.php"><i class="app-menu__icon fas fa-tachometer-alt"></i><span class="app-menu__label">Buscar Empleo</span></a></li>
+        <li><a class="app-menu__item active" href="index.php"><i class="app-menu__icon fas fa-tachometer-alt"></i><span class="app-menu__label">Lista de Empleo</span></a></li>
         <li><a class="app-menu__item" href="charts.html"><i class="app-menu__icon fas fa-folder"></i><span class="app-menu__label">Mis postulaciones</span></a></li>
         <li><a class="app-menu__item" href="charts.html"><i class="app-menu__icon fas fa-briefcase"></i><span class="app-menu__label">Empleo Guardados</span></a></li>
         <li><a class="app-menu__item" href="cv.php"><i class="app-menu__icon  fas fa-file-alt"></i><span class="app-menu__label">Mis C.V</span></a></li>

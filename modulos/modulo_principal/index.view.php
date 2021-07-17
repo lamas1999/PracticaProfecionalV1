@@ -36,10 +36,14 @@
                     </div>
                 </div>
 
-                <!--END ECTION POST  -->              
+
+                <!--END ECTION POST  -->
             </div>
             <!-- Paginacion -->
             <?php require_once 'paginacion.php'; ?>
+             <!-- Crosel -->
+      <?php require_once 'carosel.imagenes.php'; ?>
+          
         </div>
     </section>
 </main>

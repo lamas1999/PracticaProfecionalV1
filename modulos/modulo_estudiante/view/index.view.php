@@ -4,12 +4,12 @@
 <main class="app-content">
     <div class="app-title">
         <div>
-            <h1><i class="fas fa-tachometer-alt"></i> Buscar Empleo</h1>
+            <h1><i class="fas fa-tachometer-alt"></i> Lista de Empleos Disponibles</h1>
             <p>Vea todos los empleos disponibles</p>
         </div>
         <ul class="app-breadcrumb breadcrumb">
             <li class="breadcrumb-item"><i class="fa fa-home fa-lg"></i></li>
-            <li class="breadcrumb-item"><a href="index.php" class="text-danger">Buscar empleo</a></li>
+            <li class="breadcrumb-item"><a href="index.php" class="text-danger">Lista de empleos</a></li>
         </ul>
     </div>
     <div class="row">

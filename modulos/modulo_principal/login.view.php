@@ -1,8 +1,6 @@
 <?php require_once 'header.php'; ?>
 
-<body>
- 
-
+<main id="main">
    <section class="material-half-bg"></section> 
     
     <section class="login-content">
@@ -36,4 +34,5 @@
 
         </div>
     </section>
+</main>
     <?php require 'footer.php';?>

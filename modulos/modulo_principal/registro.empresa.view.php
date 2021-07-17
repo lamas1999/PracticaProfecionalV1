@@ -32,6 +32,12 @@
                             </div>
                         </div>
                         <div class="form-group">
+                            <label for="name">Contacto de la Empresa00</label>
+                            <input type="text" class="form-control" name="subject" id="subject" data-rule="minlen:4"
+                                data-msg="Please enter at least 8 chars of subject" />
+                            <div class="validate"></div>
+                        </div>
+                        <div class="form-group">
                             <label for="name">Direccion</label>
                             <input type="text" class="form-control" name="subject" id="subject" data-rule="minlen:4"
                                 data-msg="Please enter at least 8 chars of subject" />

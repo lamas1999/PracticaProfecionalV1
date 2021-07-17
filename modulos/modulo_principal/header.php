@@ -26,6 +26,10 @@
   <link href="<?php echo RUTA;?>/assets/principal/vendor/venobox/venobox.css" rel="stylesheet">
   <link href="<?php echo RUTA;?>/assets/principal/vendor/owl.carousel/assets/owl.carousel.min.css" rel="stylesheet">
   <link href="<?php echo RUTA;?>/assets/principal/vendor/aos/aos.css" rel="stylesheet">
+  <!-- Glider.js -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/normalize.css@8.0.1/normalize.min.css">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glider-js@1.7.3/glider.min.css">
+  <!--  -->
 
   <!-- Template Main CSS File -->
   <link href="<?php echo RUTA;?>/assets/principal/css/style.css" rel="stylesheet">
@@ -45,9 +49,7 @@
         <ul>
          
         
-          <li><a href="#services">Services</a></li>
-          <li><a href="#portfolio">Portfolio</a></li>
-          <li><a href="#team">Team</a></li>
+      
           <li class="drop-down"><a href="">Drop Down</a>
             <ul>
               <li><a href="#">Drop Down 1</a></li>
